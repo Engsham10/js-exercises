@@ -1,0 +1,9 @@
+
+{
+    "id":1,
+    "name":"engsham",
+    "city":"jigjiga",
+    "orders":[
+        {"id":1, "product":"laptop","qauntity":2}
+        ]
+}
